@@ -1,0 +1,8 @@
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\bin\Debug\TestYahooYQLFinanceAPIWF.exe.config
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\bin\Debug\TestYahooYQLFinanceAPIWF.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\bin\Debug\TestYahooYQLFinanceAPIWF.pdb
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\obj\Debug\TestYahooYQLFinanceAPIWF.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\obj\Debug\TestYahooYQLFinanceAPIWF.Properties.Resources.resources
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\obj\Debug\TestYahooYQLFinanceAPIWF.csproj.GenerateResource.Cache
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\obj\Debug\TestYahooYQLFinanceAPIWF.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWF\obj\Debug\TestYahooYQLFinanceAPIWF.pdb

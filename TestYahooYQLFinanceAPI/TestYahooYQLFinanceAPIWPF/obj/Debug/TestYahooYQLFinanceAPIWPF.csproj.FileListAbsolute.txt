@@ -1,0 +1,14 @@
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\bin\Debug\TestYahooYQLFinanceAPIWPF.exe.config
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\bin\Debug\TestYahooYQLFinanceAPIWPF.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\bin\Debug\TestYahooYQLFinanceAPIWPF.pdb
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\App.g.cs
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF_MarkupCompile.cache
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF_MarkupCompile.lref
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\MainWindow.baml
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF.g.resources
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF.Properties.Resources.resources
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF.csproj.GenerateResource.Cache
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPIWPF\obj\Debug\TestYahooYQLFinanceAPIWPF.pdb
