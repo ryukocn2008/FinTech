@@ -1,0 +1,6 @@
+C:\Users\Dev\Source\Repos\FinTech\TestYahooCSVFinanceAPI\TestYahooCSVFinanceAPI\bin\Debug\TestYahooCSVFinanceAPI.exe.config
+C:\Users\Dev\Source\Repos\FinTech\TestYahooCSVFinanceAPI\TestYahooCSVFinanceAPI\bin\Debug\TestYahooCSVFinanceAPI.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooCSVFinanceAPI\TestYahooCSVFinanceAPI\bin\Debug\TestYahooCSVFinanceAPI.pdb
+C:\Users\Dev\Source\Repos\FinTech\TestYahooCSVFinanceAPI\TestYahooCSVFinanceAPI\obj\Debug\TestYahooCSVFinanceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Source\Repos\FinTech\TestYahooCSVFinanceAPI\TestYahooCSVFinanceAPI\obj\Debug\TestYahooCSVFinanceAPI.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooCSVFinanceAPI\TestYahooCSVFinanceAPI\obj\Debug\TestYahooCSVFinanceAPI.pdb
