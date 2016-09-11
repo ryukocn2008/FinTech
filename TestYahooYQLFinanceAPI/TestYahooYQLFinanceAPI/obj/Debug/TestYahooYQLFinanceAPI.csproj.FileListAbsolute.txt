@@ -1,0 +1,12 @@
+C:\Users\Dev\Source\Repos\FinTechTest\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\bin\Debug\TestYahooYQLFinanceAPI.exe.config
+C:\Users\Dev\Source\Repos\FinTechTest\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\bin\Debug\TestYahooYQLFinanceAPI.exe
+C:\Users\Dev\Source\Repos\FinTechTest\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\bin\Debug\TestYahooYQLFinanceAPI.pdb
+C:\Users\Dev\Source\Repos\FinTechTest\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\obj\Debug\TestYahooYQLFinanceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Source\Repos\FinTechTest\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\obj\Debug\TestYahooYQLFinanceAPI.exe
+C:\Users\Dev\Source\Repos\FinTechTest\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\obj\Debug\TestYahooYQLFinanceAPI.pdb
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\bin\Debug\TestYahooYQLFinanceAPI.exe.config
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\obj\Debug\TestYahooYQLFinanceAPI.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\obj\Debug\TestYahooYQLFinanceAPI.pdb
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\bin\Debug\TestYahooYQLFinanceAPI.exe
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\bin\Debug\TestYahooYQLFinanceAPI.pdb
+C:\Users\Dev\Source\Repos\FinTech\TestYahooYQLFinanceAPI\TestYahooYQLFinanceAPI\obj\Debug\TestYahooYQLFinanceAPI.csprojResolveAssemblyReference.cache
