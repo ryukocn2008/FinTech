@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OptionItems>
+  <DatabaseCategory Value="Rational Database">
+    <Database Value="MS SQL Server">
+      <TestSet Value="CRUD">
+        <ConnectionType Value="ODBC">
+          <Test Value="SELECT">
+            <SQL>SELECT * FROM TestTable;</SQL>
+          </Test>
+          <Test Value="INSERT">
+            <SQL></SQL>
+          </Test>
+          <Test Value="DELETE">
+            <SQL></SQL>
+          </Test>
+          <Test Value="UPDATE">
+            <SQL></SQL>
+          </Test>
+        </ConnectionType>
+        <ConnectionType Value="OLE DB">
+          
+        </ConnectionType>
+        <ConnectionType Value=".net Provider">
+          
+        </ConnectionType>
+      </TestSet>
+      <TestSet Value="Backup">
+        <ConnectionType Value="ODBC">
+          <ConnectionString Value="" />
+          <Test Value="">
+            
+          </Test>
+        </ConnectionType>
+        <ConnectionType Value="OLE DB">
+          
+        </ConnectionType>
+        <ConnectionType Value=".net Provider">
+          
+        </ConnectionType>
+      </TestSet>
+    </Database>
+  </DatabaseCategory>
+  <DatabaseCategory Value="NoSQL Database">
+     
+  </DatabaseCategory>
+</OptionItems>

@@ -1,0 +1,14 @@
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\DatabaseBasicTests.exe.config
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\DatabaseBasicTests.exe
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\DatabaseBasicTests.pdb
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\C5.dll
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\Commons.Collections.dll
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\Commons.Utils.dll
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\C5.pdb
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\bin\Debug\C5.xml
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.csprojResolveAssemblyReference.cache
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.MainForm.resources
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.Properties.Resources.resources
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.csproj.GenerateResource.Cache
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.exe
+C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.pdb
