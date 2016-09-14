@@ -12,3 +12,6 @@ C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\
 C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.csproj.GenerateResource.Cache
 C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.exe
 C:\Users\Dev\Source\Repos\FinTechTest\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.pdb
+C:\Users\Dev\Documents\GitHubVisualStudio\FinTech\DatabaseTest\DatabaseBasicTests\bin\Debug\DatabaseBasicTests.exe.config
+C:\Users\Dev\Documents\GitHubVisualStudio\FinTech\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.exe
+C:\Users\Dev\Documents\GitHubVisualStudio\FinTech\DatabaseTest\DatabaseBasicTests\obj\Debug\DatabaseBasicTests.pdb
