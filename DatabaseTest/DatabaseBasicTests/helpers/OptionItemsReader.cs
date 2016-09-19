@@ -99,7 +99,7 @@ namespace DatabaseBasicTests
                                                             {
                                                                 if (node6.Name.Equals("SQL"))
                                                                 {
-                                                                    test.SQL = node6.InnerText;
+                                                                    test.query = node6.InnerText;
                                                                 }
                                                             }
                                                         }

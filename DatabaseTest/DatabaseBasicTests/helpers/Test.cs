@@ -8,8 +8,15 @@ namespace DatabaseBasicTests.helpers
 {
     class Test : OptionItem
     {
-        public string SQL { get; set; }
+        public string query { get; set; }
 
         public Test(string name) : base(name) { }
+
+        public enumDatabaseCategory databaseCategory { get; set; }
+        public enumDatabase database { get; set; }
+        public enumTestSet testSet { get; set; }
+        public enumConnectionType connectionType { get; set; }
+        public string test { get; set; }
+
     }
 }

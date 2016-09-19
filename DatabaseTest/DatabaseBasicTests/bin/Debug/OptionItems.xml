@@ -18,11 +18,48 @@
           </Test>
         </ConnectionType>
         <ConnectionType Value="OLE DB">
-          
+          <Test Value="SELECT">
+            <SQL>SELECT * FROM TestTable;</SQL>
+          </Test>
+          <Test Value="INSERT">
+            <SQL></SQL>
+          </Test>
+          <Test Value="DELETE">
+            <SQL></SQL>
+          </Test>
+          <Test Value="UPDATE">
+            <SQL></SQL>
+          </Test>
         </ConnectionType>
         <ConnectionType Value=".net Provider">
-          
+          <Test Value="SELECT">
+            <SQL>SELECT * FROM TestTable;</SQL>
+          </Test>
+          <Test Value="INSERT">
+            <SQL></SQL>
+          </Test>
+          <Test Value="DELETE">
+            <SQL></SQL>
+          </Test>
+          <Test Value="UPDATE">
+            <SQL></SQL>
+          </Test>
         </ConnectionType>
+        <ConnectionType Value="Entity Model (EF)">
+          <Test Value="SELECT">
+            <SQL>SELECT * FROM TestTable;</SQL>
+          </Test>
+          <Test Value="INSERT">
+            <SQL></SQL>
+          </Test>
+          <Test Value="DELETE">
+            <SQL></SQL>
+          </Test>
+          <Test Value="UPDATE">
+            <SQL></SQL>
+          </Test>
+        </ConnectionType>
+      
       </TestSet>
       <TestSet Value="Backup">
         <ConnectionType Value="ODBC">
